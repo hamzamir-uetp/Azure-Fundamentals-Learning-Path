@@ -16,7 +16,7 @@
    - Open a new browser tab and go to your web server. After a few moments, you see that the connection isn't happening. If you wait for the browser to time out, you see something like this:
 ![Step 3](Screenshots/M2-Ex1-T1(c).PNG)
 
-   d. Keep this browser tab open for later.
+   - Keep this browser tab open for later.
 
 
 ### Task 2: List the current network security group rules

@@ -2,13 +2,13 @@
 
 ## Tasks
 
-### 1. Task1: 
-![Task 1](screenshots/Task1.PNG)(: style="width: 60%")
+### 1. Task 1: 
+![Task 1](screenshots/Task1.PNG)
 
-### 2. Task2:
+### 2. Task 2:
 ![Task 2](screenshots/Task2.PNG)
 
-### 3. Task3:
+### 3. Task 3:
 ![Task 3](screenshots/Task3.PNG)
 
 

@@ -2,17 +2,14 @@
 
 ## Tasks
 
-### Task1: 
-![Task 1](screenshots/Task1.PNG)
+### 1. Task1: 
+![Task 1](screenshots/Task1.PNG){: style="width: 60%"}
 
-### Task2:
+### 2. Task2:
 ![Task 2](screenshots/Task2.PNG)
 
-### Task3:
+### 3. Task3:
 ![Task 3](screenshots/Task3.PNG)
-
-### Task4:
-![Task 4](screenshots/Task4.PNG)
 
 
 
@@ -25,7 +22,7 @@
 4. Followed mentioned steps to fill the info.
 5. Clicked "Review + create" then "Create".
 
-## Screenshots
+## Tasks
 
 ### Task 1;
 ![Step 1](screenshots/Step1_Ex2.PNG)

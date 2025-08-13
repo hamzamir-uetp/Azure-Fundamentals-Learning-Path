@@ -1,12 +1,22 @@
-Excercie 1: Exploring Learn Sandbox
+# Excercie 1: Exploring Learn Sandbox
 
 ## Tasks
+
+### Task1: 
 ![Task 1](screenshots/Task1.PNG)
+
+### Task2:
 ![Task 2](screenshots/Task2.PNG)
+
+### Task3:
 ![Task 3](screenshots/Task3.PNG)
+
+### Task4:
 ![Task 4](screenshots/Task4.PNG)
 
-Exercise 2: Creating a VM and accessing Resource Group
+
+
+# Exercise 2: Creating a VM and accessing Resource Group
 
 ## Steps Taken
 1. Logged into Azure Portal.
@@ -16,5 +26,9 @@ Exercise 2: Creating a VM and accessing Resource Group
 5. Clicked "Review + create" then "Create".
 
 ## Screenshots
+
+### Task 1;
 ![Step 1](screenshots/Step1_Ex2.PNG)
+
+### Task 2:
 ![Step 2](screenshots/Step2_Ex2.PNG)

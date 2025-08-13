@@ -3,7 +3,7 @@
 ## Tasks
 
 ### 1. Task1: 
-![Task 1](screenshots/Task1.PNG){: style="width: 60%"}
+![Task 1](screenshots/Task1.PNG)(: style="width: 60%")
 
 ### 2. Task2:
 ![Task 2](screenshots/Task2.PNG)

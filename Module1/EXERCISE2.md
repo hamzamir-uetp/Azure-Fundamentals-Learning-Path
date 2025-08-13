@@ -9,7 +9,7 @@
 - Select Review and Create.
 - Select Create.
 
-![Step 1](screenshots/create-rg-1.png)
+![Step 1](Screenshots/M1-Ex-2(T1).PNG)
 
 
 ### Task 2: Verify resources created
@@ -18,4 +18,4 @@
 - Select Resource groups.
 - Select the [sandbox resource group name] resource group, this will verify the resource created successfully.
 
-![Step 2](screenshots/create-rg-2.png)
+![Step 2](Screenshots/M1-Ex-2(T2).PNG)

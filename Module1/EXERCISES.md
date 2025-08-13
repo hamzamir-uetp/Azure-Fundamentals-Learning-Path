@@ -1,10 +1,10 @@
 Excercie 1: Exploring Learn Sandbox
 
 ## Tasks
-![Task 1](Task1.PNG)
-![Task 2](Task2.PNG)
-![Task 3](Task3.PNG)
-![Task 4](Task4.PNG)
+![Task 1](Module1/screenshots/Task1.PNG)
+![Task 2](Module1/screenshots/Task2.PNG)
+![Task 3](Module1/screenshots/Task3.PNG)
+![Task 4](Module1/screenshots/Task4.PNG)
 
 Exercise 2: Creating a VM and accessing Resource Group
 
@@ -16,5 +16,5 @@ Exercise 2: Creating a VM and accessing Resource Group
 5. Clicked "Review + create" then "Create".
 
 ## Screenshots
-![Step 1](Step1_Ex2.PNG)
-![Step 2](Step2_Ex2.PNG)
+![Step 1](Module1/screenshots/Step1_Ex2.PNG)
+![Step 2](Module1/screenshots/Step2_Ex2.PNG)

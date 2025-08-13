@@ -11,10 +11,10 @@
 
 - As an optional step, try to access the web server from a browser:
   
-   a. Run the command to print your VM's IP address to the console.
-   b. Copy the IP address that you see to the clipboard.
-   c. Open a new browser tab and go to your web server. After a few moments, you see that the connection isn't happening. If you wait for the browser to time out, you see something like this:
-![Step 3](Screenshots/M2-Ex2-T1(c).PNG)
+   - Run the command to print your VM's IP address to the console.
+   - Copy the IP address that you see to the clipboard.
+   - Open a new browser tab and go to your web server. After a few moments, you see that the connection isn't happening. If you wait for the browser to time out, you see something like this:
+![Step 3](Screenshots/M2-Ex1-T1(c).PNG)
 
    d. Keep this browser tab open for later.
 

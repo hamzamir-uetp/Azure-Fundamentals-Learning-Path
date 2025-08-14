@@ -1,13 +1,15 @@
-# Module 3 Assessment Results
+# Module 2 Assessment Results
 
-## Score: 100%  
-**Note**: Retook after initial 70% score  
+## Critical Insights
+1. **VM Scale Sets**: 
+   - Support automatic scaling based on metrics (CPU/RAM)
+   - Single placement group limit: 100 VMs
+2. **Load Balancers**:
+   - Basic SKU: No SLA
+   - Standard SKU: 99.99% SLA
+3. **Azure Bastion**: 
+   - No public IP needed on VMs
+   - Costs accrue per hour (not per connection)
 
-### Corrected Misunderstandings
-1. **Access Tiers**  
-   - Archive tier has retrieval latency (hours)  
-   - Cool tier minimum storage duration: 30 days  
-
-2. **Shared Access Signatures**  
-   - Service SAS vs Account SAS  
-   - Advised practice: Set short expiration times  
+## Result
+Got correct 3/3

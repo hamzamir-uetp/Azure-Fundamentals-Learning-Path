@@ -1,7 +1,7 @@
 # Module 3 Assessment Results
 
 ## Score: 100%  
-**Notes**: Retook after initial 70% score  
+**Note**: Retook after initial 70% score  
 
 ### Corrected Misunderstandings
 1. **Access Tiers**  

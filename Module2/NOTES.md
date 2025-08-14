@@ -1,9 +1,4 @@
-
----
-
 ### **Module 2: Compute & Networking**
-```markdown
-# Module 2: Compute & Networking Services
 
 ## Compute Services
 | Service       | Use Case                      | Example CLI Command                      |

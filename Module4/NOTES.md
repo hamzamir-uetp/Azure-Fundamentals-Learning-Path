@@ -1,4 +1,4 @@
-# **Module 4: Azure Identity, Acceess and Security**
+# **Module 4: Azure Identity, Access and Security**
 
 ## Core Services
 - **Azure Active Directory (AAD)**: Cloud identity provider

@@ -10,9 +10,3 @@
 ## Key Concepts
 1. **Multi-Factor Authentication (MFA)**: Requires 2+ verification methods
 2. **Conditional Access**: Context-aware access policies
-
-## Practical Steps
-- Assigned VM contributor role:
-  ```bash
-  az role assignment create --assignee user@domain.com \
-  --role "Virtual Machine Contributor" --scope /subscriptions/xxx/resourceGroups/yyy

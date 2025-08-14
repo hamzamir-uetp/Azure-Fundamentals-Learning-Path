@@ -11,9 +11,3 @@
   - LRS (Locally-redundant)
   - GRS (Geo-redundant)
 - **Shared Access Signatures (SAS)**: Time-limited access tokens
-
-## Lab Results
-- Created storage account with:
-  ```bash
-  az storage account create --name hmaccount \
-  --resource-group learn-123 --sku Standard_LRS

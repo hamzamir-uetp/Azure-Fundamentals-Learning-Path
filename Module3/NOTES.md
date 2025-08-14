@@ -1,4 +1,4 @@
-### **Module 3: Azure Storage Services**
+# **Module 3: Storage Services**
 
 ## Storage Types
 1. **Blob Storage**: For unstructured data (images, backups)

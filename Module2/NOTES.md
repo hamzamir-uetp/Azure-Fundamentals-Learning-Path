@@ -1,4 +1,4 @@
-### **Module 2: Compute & Networking**
+# **Module 2: Compute & Networking**
 
 ## Compute Services
 | Service       | Use Case                      | Example CLI Command                      |
